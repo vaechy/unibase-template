@@ -1,27 +1,27 @@
-<p align="center">
-  <a href="https://github.com/codercup2/unibest">
+<!-- <p align="center">
+  <a href="https://github.com/vaechy/unibase-template">
     <img width="160" src="./src/static/logo.svg">
   </a>
-</p>
+</p> -->
 
 <h1 align="center">
-  <a href="https://github.com/codercup2/unibest" target="_blank">unibase - uniapp基础开发模板</a>
+  <a href="https://github.com/vaechy/unibase-template" target="_blank">unibase - uniapp基础开发模板</a>
 </h1>
 
 <div align="center">
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/codercup/unibest?style=flat&logo=github)](https://github.com/codercup/unibest)
-[![GitHub forks](https://img.shields.io/github/forks/codercup/unibest?style=flat&logo=github)](https://github.com/codercup/unibest)
-[![star](https://gitee.com/codercup/unibest/badge/star.svg?theme=dark)](https://gitee.com/codercup/unibest/stargazers)
-[![fork](https://gitee.com/codercup/unibest/badge/fork.svg?theme=dark)](https://gitee.com/codercup/unibest/members)
+[![GitHub Repo stars](https://img.shields.io/github/stars/vaechy/unibase-template?style=flat&logo=github)](https://github.com/vaechy/unibase-template)
+[![GitHub forks](https://img.shields.io/github/forks/vaechy/unibase-template?style=flat&logo=github)](https://github.com/vaechy/unibase-template)
+[![star](https://gitee.com/vaechy/unibase-template/badge/star.svg?theme=dark)](https://gitee.com/vaechy/unibase-template)
+[![fork](https://gitee.com/vaechy/unibase-template/badge/fork.svg?theme=dark)](https://gitee.com/vaechy/unibase-template/members)
 ![node version](https://img.shields.io/badge/node-%3E%3D18-green)
-![pnpm version](https://img.shields.io/badge/pnpm-%3E%3D7.30-green)
-![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/codercup/unibest)
-![GitHub License](https://img.shields.io/github/license/codercup/unibest)
+![pnpm version](https://img.shields.io/badge/npm-%3E%3D10.24-green)
+![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/vaechy/unibase-template)
+![GitHub License](https://img.shields.io/github/license/vaechy/unibase-template)
 
 </div>
 
-`unibase` —— 基础 `uniapp` 开发模板，由 `uniapp` + `Vue3` + `Ts` + `Vite5` + `UnoCss` + `wot-ui` + `z-paging` 构成，使用了最新的前端技术栈，丢弃 `HBuilderX`，通过命令行方式运行 `web`、`小程序` 和 `App`（编辑器推荐 `VSCode`）。
+`unibase` —— 一个快速的 `uniapp` 基础开发模板，是由[unibest](https://github.com/codercup2/unibest)改进而成，由 `uniapp` + `Vue3` + `Ts` + `Vite5` + `UnoCss` + `wot-ui` + `z-paging` 构成，使用了最新的前端技术栈，丢弃 `HBuilderX`，使用`npm`作为首选包构建工具，通过命令行方式运行 `web`、`小程序` 和 `App`（编辑器推荐 `VSCode`）。
 
 `unibase` 内置了 `约定式路由`、`layout布局`、`内置请求状态管理`、`请求拦截`、`登录拦截`、`UnoCSS`、`i18n多语言` 等基础功能，提供了 `代码提示`、`自动格式化`、`统一配置`、`代码片段` 等辅助功能，可以让你省去繁琐的基础环境搭建，专注于业务代码，快速开发。
 

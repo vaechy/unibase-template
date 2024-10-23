@@ -57,7 +57,7 @@
     "*.tsx": "$(capture).test.ts, $(capture).test.tsx",
     // "*.env": "$(capture).env.*",
     "CHANGELOG.md": "CHANGELOG*",
-    "package.json": "pnpm-lock.yaml,pnpm-workspace.yaml,LICENSE,.gitattributes,.gitignore,.gitpod.yml,CNAME,.npmrc,.browserslistrc",
+    "package.json": "package-lock.json,pnpm-lock.yaml,pnpm-workspace.yaml,LICENSE,.gitattributes,.gitignore,.gitpod.yml,CNAME,.npmrc,.browserslistrc",
     ".eslintrc.cjs": ".eslintignore,.prettierignore,.stylelintignore,.commitlintrc.*,.prettierrc.*,.stylelintrc.*,.eslintrc-auto-import.json,.editorconfig,.commitlint.cjs"
   }
 }

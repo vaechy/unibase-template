@@ -11,10 +11,10 @@
     "gitee": "https://gitee.com/vaechy"
   },
   "license": "MIT",
-  "repository": "https://github.com/codercup/unibest",
-  "repository-gitee": "https://gitee.com/codercup/unibest",
+  "repository": "https://github.com/vaechy/unibase-template",
+  "repository-gitee": "https://gitee.com/vaechy/unibase-template",
   "bugs": {
-    "url": "https://github.com/codercup/unibest/issues"
+    "url": "https://github.com/vaechy/unibase-template/issues"
   },
   "homepage": "https://codercup.github.io/unibest/",
   "engines": {
